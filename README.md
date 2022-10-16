@@ -2,7 +2,10 @@
 Web UI Components
 
 ## DropDown
-JQuery 플러그인
+
+JQuery 플러그인으로 작동하는 DropDown Seletor 입니다.
+
+예제: [dropdown/index.html](./dropdown/index.html) 
 
 ```
 $('#target')

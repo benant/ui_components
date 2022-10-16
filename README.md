@@ -1,2 +1,2 @@
-# ui_components
+# web_ui_components
 Web UI Components

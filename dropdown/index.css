@@ -1,6 +1,7 @@
 /* Dropdown */
 .dropdown-wrapper {
     position: relative;
+    display:block;
 }
 
 .dropdown {

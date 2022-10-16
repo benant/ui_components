@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "showdown": "^2.1.0"
+  },
+  "name": "web_ui_components",
+  "description": "Web UI Components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benant/web_ui_components.git"
+  },
+  "author": "benant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benant/web_ui_components/issues"
+  },
+  "homepage": "https://github.com/benant/web_ui_components#readme"
+}
